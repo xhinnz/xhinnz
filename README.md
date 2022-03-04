@@ -15,7 +15,7 @@ Hi, I'm Biel4/Xhinnz and here's a little about what I know and intend to learn.
 
 ### *Spotify Playing :headphones:*
 
-![spotify-github-profile](/img/compact.svg)
+![spotify-github-profile](/img/novatorem.svg)
 
 <h3 align="center">Contact</h3>
 <p align="center">
