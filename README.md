@@ -15,7 +15,8 @@ Hi, I'm Biel4/Xhinnz and here's a little about what I know and intend to learn.
 
 ### *Spotify Playing :headphones:*
 
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
+![spotify-github-profile](/img/compact.svg)
+
 <h3 align="center">Contact</h3>
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
