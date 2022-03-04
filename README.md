@@ -15,8 +15,7 @@ Hi, I'm Biel4/Xhinnz and here's a little about what I know and intend to learn.
 
 ### *Spotify Playing :headphones:*
 
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
-
+[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
 <h3 align="center">Contact</h3>
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
